@@ -1,0 +1,6 @@
+x=input()
+x2=input()
+y=x.split()
+y2=x2.split()
+z=(len(y+y2))
+print(z)
